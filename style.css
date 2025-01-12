@@ -11,7 +11,7 @@ html, body {
     background-repeat: no-repeat;
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), 
-        url("../images/berry_college.jpg");
+        url("berry_college.jpg");
     background-size: cover;
     background-position: center;
     height: 100%;
