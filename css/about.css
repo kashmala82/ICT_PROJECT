@@ -1,0 +1,27 @@
+body{
+    width:100vw;
+    height:100vh;
+}
+h3{
+    text-align:center;
+    font-size:5vw;
+    font-weight:bolder;
+}
+p{
+    font-size: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+button{
+    padding:20px;
+    width:25%;
+    margin-left:37%;
+    position:absolute;
+    text-align: center;
+    justify-content: center;
+    background-color:rgb(184, 14, 14);
+   color:white;
+   font-size:2vw;
+   font-weight: bold;
+   border:none;
+}
